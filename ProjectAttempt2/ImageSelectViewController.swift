@@ -9,7 +9,7 @@
 import UIKit
 
 class ImageSelectViewController: UIViewController {
-
+    
     @IBOutlet weak var the_title: UILabel!
     @IBOutlet weak var imageView: UIImageView!
     var imgurlstring: String!
